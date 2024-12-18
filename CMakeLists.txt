@@ -17,3 +17,6 @@ include_directories(${PROJECT_SOURCE_DIR}/thirdparty)
 
 # 加载子目录
 add_subdirectory(src)
+
+# 配置文件
+configure_file(${CMAKE_SOURCE_DIR}/src/server/db/mysql.cnf ${CMAKE_BINARY_DIR}/mysql.cnf COPYONLY)

@@ -1,0 +1,57 @@
+[
+{
+  "directory": "/home/wh/projects/chat/chatsever/build/src/server",
+  "command": "/usr/bin/g++   -I/home/wh/projects/chat/chatsever/include -I/home/wh/projects/chat/chatsever/include/server -I/home/wh/projects/chat/chatsever/include/server/model -I/home/wh/projects/chat/chatsever/include/server/db -I/home/wh/projects/chat/chatsever/include/server/redis -I/home/wh/projects/chat/chatsever/thirdparty  -g -g   -o CMakeFiles/ChatServer.dir/chatserver.cpp.o -c /home/wh/projects/chat/chatsever/src/server/chatserver.cpp",
+  "file": "/home/wh/projects/chat/chatsever/src/server/chatserver.cpp"
+},
+{
+  "directory": "/home/wh/projects/chat/chatsever/build/src/server",
+  "command": "/usr/bin/g++   -I/home/wh/projects/chat/chatsever/include -I/home/wh/projects/chat/chatsever/include/server -I/home/wh/projects/chat/chatsever/include/server/model -I/home/wh/projects/chat/chatsever/include/server/db -I/home/wh/projects/chat/chatsever/include/server/redis -I/home/wh/projects/chat/chatsever/thirdparty  -g -g   -o CMakeFiles/ChatServer.dir/chatservice.cpp.o -c /home/wh/projects/chat/chatsever/src/server/chatservice.cpp",
+  "file": "/home/wh/projects/chat/chatsever/src/server/chatservice.cpp"
+},
+{
+  "directory": "/home/wh/projects/chat/chatsever/build/src/server",
+  "command": "/usr/bin/g++   -I/home/wh/projects/chat/chatsever/include -I/home/wh/projects/chat/chatsever/include/server -I/home/wh/projects/chat/chatsever/include/server/model -I/home/wh/projects/chat/chatsever/include/server/db -I/home/wh/projects/chat/chatsever/include/server/redis -I/home/wh/projects/chat/chatsever/thirdparty  -g -g   -o CMakeFiles/ChatServer.dir/main.cpp.o -c /home/wh/projects/chat/chatsever/src/server/main.cpp",
+  "file": "/home/wh/projects/chat/chatsever/src/server/main.cpp"
+},
+{
+  "directory": "/home/wh/projects/chat/chatsever/build/src/server",
+  "command": "/usr/bin/g++   -I/home/wh/projects/chat/chatsever/include -I/home/wh/projects/chat/chatsever/include/server -I/home/wh/projects/chat/chatsever/include/server/model -I/home/wh/projects/chat/chatsever/include/server/db -I/home/wh/projects/chat/chatsever/include/server/redis -I/home/wh/projects/chat/chatsever/thirdparty  -g -g   -o CMakeFiles/ChatServer.dir/db/Connection.cpp.o -c /home/wh/projects/chat/chatsever/src/server/db/Connection.cpp",
+  "file": "/home/wh/projects/chat/chatsever/src/server/db/Connection.cpp"
+},
+{
+  "directory": "/home/wh/projects/chat/chatsever/build/src/server",
+  "command": "/usr/bin/g++   -I/home/wh/projects/chat/chatsever/include -I/home/wh/projects/chat/chatsever/include/server -I/home/wh/projects/chat/chatsever/include/server/model -I/home/wh/projects/chat/chatsever/include/server/db -I/home/wh/projects/chat/chatsever/include/server/redis -I/home/wh/projects/chat/chatsever/thirdparty  -g -g   -o CMakeFiles/ChatServer.dir/db/ConnectionPool.cpp.o -c /home/wh/projects/chat/chatsever/src/server/db/ConnectionPool.cpp",
+  "file": "/home/wh/projects/chat/chatsever/src/server/db/ConnectionPool.cpp"
+},
+{
+  "directory": "/home/wh/projects/chat/chatsever/build/src/server",
+  "command": "/usr/bin/g++   -I/home/wh/projects/chat/chatsever/include -I/home/wh/projects/chat/chatsever/include/server -I/home/wh/projects/chat/chatsever/include/server/model -I/home/wh/projects/chat/chatsever/include/server/db -I/home/wh/projects/chat/chatsever/include/server/redis -I/home/wh/projects/chat/chatsever/thirdparty  -g -g   -o CMakeFiles/ChatServer.dir/model/friendmodel.cpp.o -c /home/wh/projects/chat/chatsever/src/server/model/friendmodel.cpp",
+  "file": "/home/wh/projects/chat/chatsever/src/server/model/friendmodel.cpp"
+},
+{
+  "directory": "/home/wh/projects/chat/chatsever/build/src/server",
+  "command": "/usr/bin/g++   -I/home/wh/projects/chat/chatsever/include -I/home/wh/projects/chat/chatsever/include/server -I/home/wh/projects/chat/chatsever/include/server/model -I/home/wh/projects/chat/chatsever/include/server/db -I/home/wh/projects/chat/chatsever/include/server/redis -I/home/wh/projects/chat/chatsever/thirdparty  -g -g   -o CMakeFiles/ChatServer.dir/model/groupmodel.cpp.o -c /home/wh/projects/chat/chatsever/src/server/model/groupmodel.cpp",
+  "file": "/home/wh/projects/chat/chatsever/src/server/model/groupmodel.cpp"
+},
+{
+  "directory": "/home/wh/projects/chat/chatsever/build/src/server",
+  "command": "/usr/bin/g++   -I/home/wh/projects/chat/chatsever/include -I/home/wh/projects/chat/chatsever/include/server -I/home/wh/projects/chat/chatsever/include/server/model -I/home/wh/projects/chat/chatsever/include/server/db -I/home/wh/projects/chat/chatsever/include/server/redis -I/home/wh/projects/chat/chatsever/thirdparty  -g -g   -o CMakeFiles/ChatServer.dir/model/offlinemessagemodel.cpp.o -c /home/wh/projects/chat/chatsever/src/server/model/offlinemessagemodel.cpp",
+  "file": "/home/wh/projects/chat/chatsever/src/server/model/offlinemessagemodel.cpp"
+},
+{
+  "directory": "/home/wh/projects/chat/chatsever/build/src/server",
+  "command": "/usr/bin/g++   -I/home/wh/projects/chat/chatsever/include -I/home/wh/projects/chat/chatsever/include/server -I/home/wh/projects/chat/chatsever/include/server/model -I/home/wh/projects/chat/chatsever/include/server/db -I/home/wh/projects/chat/chatsever/include/server/redis -I/home/wh/projects/chat/chatsever/thirdparty  -g -g   -o CMakeFiles/ChatServer.dir/model/usermodel.cpp.o -c /home/wh/projects/chat/chatsever/src/server/model/usermodel.cpp",
+  "file": "/home/wh/projects/chat/chatsever/src/server/model/usermodel.cpp"
+},
+{
+  "directory": "/home/wh/projects/chat/chatsever/build/src/server",
+  "command": "/usr/bin/g++   -I/home/wh/projects/chat/chatsever/include -I/home/wh/projects/chat/chatsever/include/server -I/home/wh/projects/chat/chatsever/include/server/model -I/home/wh/projects/chat/chatsever/include/server/db -I/home/wh/projects/chat/chatsever/include/server/redis -I/home/wh/projects/chat/chatsever/thirdparty  -g -g   -o CMakeFiles/ChatServer.dir/redis/redis.cpp.o -c /home/wh/projects/chat/chatsever/src/server/redis/redis.cpp",
+  "file": "/home/wh/projects/chat/chatsever/src/server/redis/redis.cpp"
+},
+{
+  "directory": "/home/wh/projects/chat/chatsever/build/src/client",
+  "command": "/usr/bin/g++   -I/home/wh/projects/chat/chatsever/include -I/home/wh/projects/chat/chatsever/include/server -I/home/wh/projects/chat/chatsever/include/server/model -I/home/wh/projects/chat/chatsever/include/server/db -I/home/wh/projects/chat/chatsever/include/server/redis -I/home/wh/projects/chat/chatsever/thirdparty  -g -g   -o CMakeFiles/ChatClient.dir/main.cpp.o -c /home/wh/projects/chat/chatsever/src/client/main.cpp",
+  "file": "/home/wh/projects/chat/chatsever/src/client/main.cpp"
+}
+]

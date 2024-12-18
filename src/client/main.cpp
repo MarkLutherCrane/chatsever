@@ -232,7 +232,7 @@ void doLoginResponse(json &responsejs)
                 g_currentUserFriendList.push_back(user);
             }
         }
-        cout << "response js: \n " << responsejs["groups"] << endl;
+        cout << "response js: \n " << responsejs << endl;
         // 记录当前用户的群组列表信息
         if (responsejs.contains("groups")) // 没在server端看到  10月11
         {

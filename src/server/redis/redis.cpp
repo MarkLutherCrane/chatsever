@@ -101,7 +101,7 @@ bool Redis::unsubscribe(int channel)
     int done = 0;
     while (!done)
     {
-        if (REDIS_ERR == redisBufferWrite(_subscribe_context, &done));
+        if (REDIS_ERR == redisBufferWrite(_subscribe_context, &done))
         {
             cerr << "unsubscribe command failed!" << endl;
             return false;
